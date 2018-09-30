@@ -12,8 +12,13 @@ body {
 .blogposts {
   text-align: center;
   font-weight: lighter;
+  
 }
 
 body {
   margin: 0px;
+}
+
+.posts {
+  background-color: yellow;
 }
