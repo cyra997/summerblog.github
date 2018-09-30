@@ -3,5 +3,17 @@ body {
 }
 
 .navigation {
-  background-color: black;
+  background-color: pink;
+  font-style: italic;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.blogposts {
+  text-align: center;
+  font-weight:900;
+}
+
+body {
+  margin: 0px;
 }
